@@ -1,18 +1,18 @@
 {
   "coze": {
-    "api_key": "pat_nV0I8ngs22ttFeLnUMN3HHjMRuPlrWvVLnbba83NSLkScKE3NeCoVg2h5t7KPNio",
+    "api_key": "你的coze_api",
     "contract_bot_id": "7528266181678039103",
     "train_workflow_id": "7520515925582594084",
     "contract_workflow_id": "7528264811085758499"
   },
   "fastgpt": {
     "api": "https://cloud.fastgpt.cn/api/v1/chat/completions",
-    "key": "fastgpt-qatgww8sGc26mbgXpH1njI83h7nnbehvYFOTmtByKsDtUEX4p6GRjm52X40f",
+    "key": "fastgpt-XXX",
     "appid": "6854b0340189f42667131467"
   },
   "cos": {
     "secret_id": "AKIDsb7QVMzOZWHo8E8oGWYLuEKCqGSPDnAL",
-    "secret_key": "5xc3GFzVnrALSRVWMzdCbqsgGckkWGmO",
+    "secret_key": "5xc3XXX",
     "region": "ap-chengdu",
     "bucket_name": "rian-1339358550"
   }
