@@ -8,7 +8,7 @@
   "fastgpt": {
     "api": "https://cloud.fastgpt.cn/api/v1/chat/completions",
     "key": "fastgpt-XXX",
-    "appid": "6854b0340189f42667131467"
+    "appid": "6852061748d0a2be5cb02980"
   },
   "cos": {
     "secret_id": "AKIDsb7QVMzOZWHo8E8oGWYLuEKCqGSPDnAL",
