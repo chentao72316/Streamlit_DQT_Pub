@@ -16,7 +16,7 @@ if "chat_history" not in st.session_state:
 st.markdown(
     """
     <div style="position:sticky;top:0;background:white;z-index:100;padding-bottom:1rem;">
-        <h1 style="margin-bottom:0.2em;">💬 知识库助手（FastGPT集成）</h1>
+        <h1 style="margin-bottom:0.2em;">💬 知识库助手（工会）</h1>
         <div style="color:#444;margin-bottom:1em;">
             本页面支持与知识库助手多轮对话，仿 fastgpt 聊天界面，适合知识问答、资料检索等场景。
         </div>
